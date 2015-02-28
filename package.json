@@ -1,0 +1,9 @@
+{
+  "name": "timer-promise",
+  "version": "0.0.1",
+  "description": "Promise version of setTimeout and clearTimeout",
+  "devDependencies": {},
+  "dependencies": {
+    "promise": "^6.1.0"
+  }
+}
