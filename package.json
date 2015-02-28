@@ -2,6 +2,20 @@
   "name": "timer-promise",
   "version": "0.0.1",
   "description": "Promise version of setTimeout and clearTimeout",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iwongu/timer-promise.git"
+  },
+  "homepage": "https://github.com/iwongu/timer-promise",
+  "bugs": {
+    "url": "https://github.com/iwongu/timer-promise/issues"
+  },
+  "tags": [
+    "promise",
+    "timer",
+    "setTimeout",
+    "clearTimeout"
+  ],
   "devDependencies": {},
   "dependencies": {
     "promise": "^6.1.0"
